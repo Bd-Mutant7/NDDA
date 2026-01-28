@@ -1,4 +1,4 @@
- Network Device Discovery Application
+### Network Device Discovery Application
 
 ## Objective
 To design and implement a Python-based application that discovers devices on a local area network using ARP scanning and presents the results in a graphical interface.
@@ -29,5 +29,5 @@ The application sends ARP broadcast requests within a specified subnet. Devices 
 This tool is intended for educational purposes and must only be used on networks where the user has authorization.
 
 ## Author
-[kariukipeter7]
+[P_Kariuki007]
 
