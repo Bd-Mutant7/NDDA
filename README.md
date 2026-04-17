@@ -1,5 +1,8 @@
 ### Network Device Discovery Application
 
+[![Support](https://img.shields.io/badge/Support-Paystack-00C3F7?style=for-the-badge&logo=paypal&logoColor=white)](https://paystack.shop/pay/bd-mutant7)
+
+
 ## Objective
 To design and implement a Python-based application that discovers devices on a local area network using ARP scanning and presents the results in a graphical interface.
 
